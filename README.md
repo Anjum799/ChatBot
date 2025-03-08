@@ -51,7 +51,7 @@
 - clone this project using
 - install the necessary packages
    pip install - r requirements.txt
--  change the dir to the project
--  And python manage.py runserver
+- change the dir to the project
+- python manage.py runserver
 
-  Thank You
+  Thank You 👍
