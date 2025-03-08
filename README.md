@@ -57,7 +57,7 @@
 ## steps to set up this project
 - Install Ollama
 - In command prompt Ollama run gemma:2b (or) Ollama run mistral 
-- clone this project using
+- clone this project using https://github.com/Anjum799/ChatBot.git
 - install the necessary packages
    pip install - r requirements.txt
 - change the dir to the project
