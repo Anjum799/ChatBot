@@ -31,9 +31,18 @@
 
 ## Requirements
 ✅ Python (>= 3.8) – Download Here
+
 ✅ SQLite3 (Included with Python)
+
 ✅ Django (Latest Version)
+
 ✅ Ollama (For AI Chatbot Responses) – Install Ollama
+
+##  Install Required Python Packages
+  - pip install django
+  - pip install djangorestframework
+  - pip install requests 
+  - pip install ollama 
 
 # UI VIEWS
 ## Home Page
