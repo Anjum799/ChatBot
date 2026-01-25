@@ -1,4 +1,4 @@
-seema# ChatBot
+sema# ChatBot
  This chatbot web application provides an interactive and user-friendly experience with a 
  sleek design and smooth animations. Users can send messages, receive AI-generated 
  responses, and view their chat history, making conversations seamless and engaging.
